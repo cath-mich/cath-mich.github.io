@@ -11,15 +11,9 @@ h2{
     flex-wrap: nowrap;
     text-decoration: none;
 }
-p {
-    color: red;
-  }
 a :hover{
     background-color: azure;
 }
 tr{
     background-color: azure;
-}
-tr td :hover{
-     color: red;
 }
