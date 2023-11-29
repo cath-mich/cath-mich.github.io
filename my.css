@@ -1,7 +1,8 @@
 h1{
-    color: aquamarine;
-    text-align: center;
-    padding: auto;
+    h1 {
+        font-size: 70px;
+        color: green;
+      }
 }
 img{
     margin: 20% 40%;
