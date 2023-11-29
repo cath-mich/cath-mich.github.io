@@ -1,8 +1,7 @@
-h1{
-    color: aquamarine;
-    text-align: center;
-    padding: auto;
-}
+h1 {
+    font-size: 70px;
+    color: green;
+  }
 img{
     margin: 20% 40%;
 }
@@ -12,6 +11,9 @@ h2{
     flex-wrap: nowrap;
     text-decoration: none;
 }
+p {
+    color: red;
+  }
 a :hover{
     background-color: azure;
 }
