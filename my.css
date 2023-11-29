@@ -6,3 +6,7 @@ h1{
 img{
     margin: 20% 40%;
 }
+h2{
+    color: bisque;
+    display: block;
+}
