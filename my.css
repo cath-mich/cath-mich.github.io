@@ -20,3 +20,6 @@ a :hover{
 tr{
     background-color: azure;
 }
+tr td :hover{
+     color: red;
+}
