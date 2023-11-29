@@ -9,4 +9,9 @@ img{
 h2{
     color: bisque;
     display: block;
+    flex-wrap: nowrap;
+    text-decoration: none;
+}
+a :hover{
+    background-color: azure;
 }
